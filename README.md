@@ -40,13 +40,15 @@ Currently, I'm sharpening my development skills and preparing for upcoming full-
 ## 🧩 Projects (Built by Me)
 
 ### 🛒 **E-commerce Platform**  
-**Tech:** React · Node.js · MySQL · PostgreSQL   
+**Tech:** Java script · React · HTML · CSS   
 A full-stack application with product browsing, cart management, authentication, and an admin dashboard.
 
 ### 🗂️ **Vendor Onboarding Platform**  
+**Tech:** React · Node.js · MySQL · PostgreSQL   
 End-to-end vendor onboarding system with form submission, status tracking, and approval workflow.
 
 ### 👕 **Tailoring Solution Web App**  
+**Tech:** React · Node.js · MySQL · PostgreSQL   
 A platform to manage measurements, orders, stitching workflow, and customer data.
 
 ---

@@ -1,8 +1,8 @@
 # Hi, I'm Vipin Mavi 👋  
 ### Full-Stack JavaScript Developer | React · Node.js · SQL
 
-I'm a full-stack developer with experience building dynamic, scalable, and user-friendly web applications.  
-Currently, I'm sharpening my backend + database skills and preparing for developer interviews.
+I'm a full-stack developer experienced in building dynamic, scalable, and user-friendly web applications.  
+Currently, I'm sharpening my development skills and preparing for upcoming full-stack developer interviews.
 
 ---
 
@@ -24,28 +24,38 @@ Currently, I'm sharpening my backend + database skills and preparing for develop
 ### **Tools & Others**
 - Git & GitHub  
 - REST APIs  
-- Authentication (JWT)  
-- Deployment (Vercel, Render)
+- Authentication (JWT, SSO, Session)  
+- Deployment (Firebase, Railway)
 
 ---
 
 ## 📌 What I'm Currently Working On
 - Preparing for **full-stack developer interviews**
 - Strengthening **SQL (MySQL & PostgreSQL)**
-- Improving system design and backend logic  
-- Enhancing my communication & English-speaking skills
+- Improving backend architecture and system design  
+- Enhancing communication and English-speaking skills
 
 ---
 
-## 💼 Featured Projects (Coming Soon)
-I’m organizing and publishing:
-- 🛒 **E-commerce platform** (React + Node + MySQL)  
-- 👕 **Tailoring solution web app**  
-- 🗂️ **Vendor onboarding platform**  
-- 📋 **Full-stack task manager**  
-- 🧠 **JavaScript DSA practice repo**
+## 🧩 Projects (Built by Me)
 
-*(Once you push these projects, you can pin them here.)*
+### 🛒 **E-commerce Platform**  
+**Tech:** React · Node.js · MySQL · PostgreSQL   
+A full-stack application with product browsing, cart management, authentication, and an admin dashboard.
+
+### 🗂️ **Vendor Onboarding Platform**  
+End-to-end vendor onboarding system with form submission, status tracking, and approval workflow.
+
+### 👕 **Tailoring Solution Web App**  
+A platform to manage measurements, orders, stitching workflow, and customer data.
+
+---
+
+## 💼 Upcoming & Public Repos (Coming Soon)
+I am organizing and publishing:
+- 📋 Full-stack task manager  
+- 🧠 JavaScript DSA practice repo
+- 🔧 Improved versions of previous projects  
 
 ---
 
@@ -55,5 +65,5 @@ I’m organizing and publishing:
 
 ---
 
-⭐ **If you like my projects, feel free to star them!**  
-I’m always open to collaboration, learning, and new opportunities.
+⭐ If you like my projects, feel free to star them!  
+I'm always open to collaboration, learning, and new opportunities.

@@ -60,7 +60,3 @@ End-to-end vendor onboarding system with form submission, status tracking, and a
 📧 **Email:** mavi.mymail@gmail.com  
 🔗 **Phone:** 7055889083  
 
----
-
-⭐ If you like my projects, feel free to star them!  
-I'm always open to collaboration, learning, and new opportunities.

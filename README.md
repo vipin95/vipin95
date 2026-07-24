@@ -1,7 +1,7 @@
 # Hi, I'm Vipin Mavi 👋  
 ### Full-Stack JavaScript & TypeScript Developer | React · Node.js · SQL · PostgreSQL
 
-I'm a full-stack developer experienced in building dynamic, scalable, and user-friendly web applications.  .
+I'm a full-stack developer experienced in building dynamic, scalable, and user-friendly web applications.
 
 ---
 

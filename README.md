@@ -33,7 +33,7 @@ Currently, I'm sharpening my development skills and preparing for upcoming full-
 ---
 
 ## 📌 What I'm Currently Working On
-- Preparing for **full-stack developer interviews**
+- I am sharping my cloud skills
 - Strengthening **SQL (MySQL & PostgreSQL)**
 - Improving backend architecture and system design  
 - Enhancing communication and English-speaking skills
@@ -54,15 +54,6 @@ A full-stack application with product browsing, cart management, authentication,
 ### 🗂️ **Vendor Onboarding Platform**  
 **Tech:** React · Node.js · MySQL  
 End-to-end vendor onboarding system with form submission, status tracking, and approval workflow.
-
-
----
-
-## 💼 Upcoming & Public Repos (Coming Soon)
-I am organizing and publishing:
-- 📋 Full-stack task manager  
-- 🧠 JavaScript DSA practice repo
-- 🔧 Improved versions of previous projects  
 
 ---
 
